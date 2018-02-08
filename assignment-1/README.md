@@ -1,0 +1,1 @@
+This is the README file for the folder assignment-1, which contains a picture of me (tommy.jpg), my resume (resume.html) and styling sheet (resume-style.css), and my bio (bio.htmml) and styling sheet (bio-style.css). Cheers!
