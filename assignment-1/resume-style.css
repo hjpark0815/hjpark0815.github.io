@@ -1,0 +1,30 @@
+/* This is a style sheet for assignment-1 */
+
+body {
+    background-color: black;
+    font-family: "Calibri";
+    font-size: 14px;
+    color: white;
+    text-align: left;
+}
+
+#header {
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: solid;
+    text-align: center;
+}
+
+.category {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.category-name {
+    font-weight: bold;
+}
+
+.category-title {
+    font-style: italic;
+    font-weight: normal;
+}
