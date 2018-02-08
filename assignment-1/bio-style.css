@@ -1,0 +1,16 @@
+/* This is a style sheet for resume */
+
+body {
+    background-color: black;
+    font-family: "Calibri";
+    font-size: 14px;
+    color: white;
+    text-align: left;
+}
+
+#header {
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: solid;
+    text-align: center;
+}

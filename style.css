@@ -1,4 +1,4 @@
-/* This is a style sheet for resume */
+/* This is a style sheet for index */
 
 body {
     background-color: black;
@@ -13,18 +13,4 @@ body {
     font-weight: bold;
     border-bottom: solid;
     text-align: center;
-}
-
-.category {
-    font-size: 20px;
-    text-decoration: underline;
-}
-
-.category-name {
-    font-weight: bold;
-}
-
-.category-title {
-    font-style: italic;
-    font-weight: normal;
 }
